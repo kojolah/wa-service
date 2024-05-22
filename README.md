@@ -1,2 +1,2 @@
 # wa-service
-supported by Progantara
+supported by P
